@@ -7,7 +7,7 @@ public class IsPrime {
 	public static void main(String[] args) {
 		
 		
-		//Scanner class to get input from the user
+		//Scanner Object to get input from the user
 		
 		Scanner sc = new Scanner(System.in);
 		
